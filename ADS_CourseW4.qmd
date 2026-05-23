@@ -1,0 +1,31 @@
+---
+title: "ADS Course W4 Exercise"
+author: "Yael"
+date: 05.23.2026
+format: html
+editor: visual
+---
+
+# Quarto is cool!
+
+```{r}
+
+dotchart(mtcars$mpg,labels=row.names(mtcars),cex=.7,
+          main="Gas Milage for Car Models", 
+          xlab="Miles Per Gallon")
+
+```
+
+## *Yael* **Zaretsky** 
+
+```{r}
+# 324247675
+```
+
+[University Website](bgu.ac.il)
+
+| Col1 | Col2 |
+|------|------|
+| 1    | 2    |
+| 3    | 4    |
+| 5    | 6    |
