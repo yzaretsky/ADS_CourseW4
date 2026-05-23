@@ -29,3 +29,19 @@ dotchart(mtcars$mpg,labels=row.names(mtcars),cex=.7,
 | 1    | 2    |
 | 3    | 4    |
 | 5    | 6    |
+
+*Yael* **Zaretsky** ***YAEL***
+
+-   I really like how this works here
+
+    <div>
+
+    -   i wonder what this does
+
+    -   this is pretty useful i think
+
+    -   wow i cant believe it
+
+    -   I can make a whole website with this
+
+    </div>
