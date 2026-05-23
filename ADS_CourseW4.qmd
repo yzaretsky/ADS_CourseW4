@@ -19,7 +19,7 @@ dotchart(mtcars$mpg,labels=row.names(mtcars),cex=.7,
 ## *Yael* **Zaretsky** 
 
 ```{r}
-# 324247675
+
 ```
 
 [University Website](bgu.ac.il)
